@@ -23,8 +23,8 @@ Tools like [create-react-app](https://github.com/facebook/create-react-app) have
 
 ## Development
 
-- `npm start`
-  - Start the dev server at [http://localhost:3000](http://localhost:3000)
+- `npm  run dev`
+  - Start the dev server at [http://localhost:8080](http://localhost:8080)
 - `npm test`
   - Start `jest` in watch mode
 
