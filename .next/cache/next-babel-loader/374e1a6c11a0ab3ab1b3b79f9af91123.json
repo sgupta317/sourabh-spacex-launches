@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './Tiles';","map":{"version":3,"sources":["C:/Users/digit/Desktop/interview-test/interview-test/src/components/Tiles/index.js"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,SAAxB","sourcesContent":["export { default } from './Tiles'\n"]},"metadata":{},"sourceType":"module"}

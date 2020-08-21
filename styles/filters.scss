@@ -1,0 +1,30 @@
+.filters {
+  background-color: white;
+  padding: 12px;
+  max-height: 550px;
+  margin: 10px 0;
+
+  h6 {
+    font-size: 13px;
+    clear: both;
+  }
+
+  .button-group {
+    margin-bottom: 25px;
+    overflow: hidden;
+
+    .btn {
+      font-size: 12px;
+      padding: 2px 18px;
+      border: 0;
+      float: left;
+      margin: 6px;
+      background: #bade91;
+      color: #000;
+
+      &.selected {
+        background: #5f9821;
+      }
+    }
+  }
+}

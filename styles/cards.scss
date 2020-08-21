@@ -1,0 +1,56 @@
+.cards {
+  margin: 10px 0;
+  width: 100%;
+  background: #fff;
+
+  @media (max-width: 700px) {
+    padding: 0;
+  }
+
+
+  h5 {
+    font-size: 14px;
+    font-weight: bold;
+  }
+
+  .card-body {
+    .card-title {
+      color: blue;
+      font-size: 14px;
+    }
+
+    .mission-id {
+      font-size: 14px;
+      margin-bottom: 0px;
+    }
+
+    ul {
+      margin-bottom: 0;
+      padding-left: 0;
+
+      li {
+        margin-bottom: 0;
+        margin-left: 25px;
+      }
+    }
+  }
+
+  .card-image-container {
+    padding: 30px;
+
+    img {
+      max-width: 100%;
+    }
+  }
+}
+
+
+.tiles {
+  .card-container {
+    .card-mob {
+      @media (max-width: 700px) {
+        padding: 0;
+      }
+    }
+  }
+}

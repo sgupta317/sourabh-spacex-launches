@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './Header';","map":{"version":3,"sources":["/Users/anskhull/Downloads/test/interview-test/interview-test/src/components/Header/index.js"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,UAAxB","sourcesContent":["export { default } from './Header'\n"]},"metadata":{},"sourceType":"module"}
